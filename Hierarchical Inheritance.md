@@ -28,8 +28,8 @@ To write a Python program to get the employee and doctor details and display the
 
 ### PROGRAM
 ```
-REG NO 212222060098
-NAME : John christober T 
+REG NO 212222060178
+NAME : Pradeep Kumar P
 class Details:
     def __init__(self, id, name, gender):
         self.id = id
